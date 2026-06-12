@@ -1,7 +1,7 @@
 {
   "name": "SMQ",
   "short_name": "SMQ",
-  "start_url": "/",
+  "start_url": "/smq-pwa/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
